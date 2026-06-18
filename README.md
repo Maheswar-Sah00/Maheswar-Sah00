@@ -1,8 +1,10 @@
+## Hi, I'm Maheswar Sahoo
+
 ## 👨‍💻 A little more about me...
 
 <table>
 <tr>
-<td width="70%">
+<td width="20%">
 
 ```javascript
 const maheswar = {

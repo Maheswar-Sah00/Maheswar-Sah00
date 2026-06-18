@@ -1,8 +1,8 @@
-## Hi, I'm Maheswar Sahoo!  
+## 👨‍💻 A little more about me...
 
-
-
-## 🚀 A little more about me...
+<table>
+<tr>
+<td width="70%">
 
 ```javascript
 const maheswar = {
@@ -29,9 +29,18 @@ const maheswar = {
 
   currentRole: "AI Engineering Intern @ Lorven AI Studios",
 
-  hobbies: ["Cooking", "Sketching", "Workout"],
+  hobbies: ["Cooking 🍳", "Sketching 🎨", "Workout 💪"],
 
   lifePhilosophy: "Build. Break. Learn. Repeat."
 };
 ```
 
+</td>
+
+<td width="30%" align="center">
+
+<img src="YOUR_GIF_URL_HERE" width="250"/>
+
+</td>
+</tr>
+</table>

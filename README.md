@@ -2,16 +2,28 @@
 
 
 
+## 🚀 A little more about me...
+
+```javascript
 const maheswar = {
   pronouns: "he/him/his",
 
   code: ["JavaScript", "TypeScript", "Python", "Java"],
 
+  askMeAbout: [
+    "MERN Stack",
+    "GenAI",
+    "LLMs",
+    "RAG",
+    "AI Agents",
+    "Backend Development"
+  ],
+
   technologies: {
-    frontend: ["React", "Next.js", "Tailwind CSS"],
+    frontend: ["React", "Next.js", "Tailwind"],
     backend: ["Node.js", "Express.js"],
     databases: ["MongoDB", "PostgreSQL", "Redis"],
-    ai: ["OpenAI", "LangChain", "RAG", "AI Agents"],
+    ai: ["OpenAI", "LangChain", "Vector DBs"],
     devops: ["Docker", "AWS", "Git"]
   },
 
@@ -19,7 +31,7 @@ const maheswar = {
 
   hobbies: ["Cooking 🍳", "Sketching 🎨", "Workout 💪"],
 
-  challenge:
-    "Building AI-powered applications while mastering the MERN stack 🚀"
+  lifePhilosophy: "Build. Break. Learn. Repeat."
 };
+```
 

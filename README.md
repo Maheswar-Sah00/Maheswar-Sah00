@@ -1,15 +1,25 @@
-## Hi there 👋
+## Hi, I'm Maheswar Sahoo!  
 
 
 
-Here are some ideas to get you started:
+const maheswar = {
+  pronouns: "he/him/his",
 
-- 🔭 I’m currently working on Backend AI
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  code: ["JavaScript", "TypeScript", "Python", "Java"],
+
+  technologies: {
+    frontend: ["React", "Next.js", "Tailwind CSS"],
+    backend: ["Node.js", "Express.js"],
+    databases: ["MongoDB", "PostgreSQL", "Redis"],
+    ai: ["OpenAI", "LangChain", "RAG", "AI Agents"],
+    devops: ["Docker", "AWS", "Git"]
+  },
+
+  currentRole: "AI Engineering Intern @ Lorven AI Studios",
+
+  hobbies: ["Cooking 🍳", "Sketching 🎨", "Workout 💪"],
+
+  challenge:
+    "Building AI-powered applications while mastering the MERN stack 🚀"
+};
 

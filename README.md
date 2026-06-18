@@ -29,7 +29,7 @@ const maheswar = {
 
   currentRole: "AI Engineering Intern @ Lorven AI Studios",
 
-  hobbies: ["Cooking 🍳", "Sketching 🎨", "Workout 💪"],
+  hobbies: ["Cooking", "Sketching", "Workout"],
 
   lifePhilosophy: "Build. Break. Learn. Repeat."
 };
